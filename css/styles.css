@@ -1,0 +1,119 @@
+body{
+    background-color: #876445;
+    margin: 0;
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Quintessential', cursive;
+    font-size: 5.625rem;
+    
+}
+h2{
+    font-family: 'Road Rage', cursive;
+    font-size: 2.5rem ;
+    margin-bottom: 20px;
+}
+h3{
+    font-size: 1.7rem;
+    font-family: 'Road Rage', cursive;
+}
+p{
+    font-size: 1.5rem;
+    line-height: 1.2;
+}
+
+hr {
+    border: dotted;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    color: #632626;
+}
+a {
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: #632626;
+    margin: 30px 20px 0;
+    text-decoration: none;
+}
+a:hover{
+    color:#F0ECE3;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+
+.background-image{
+    width: 1348px;
+}
+
+.top-container{
+    margin-top: 50px;
+    position: relative;
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.bottom-container{
+   background-color: #9E7540;
+   
+}
+.student{
+    text-decoration: underline;
+}
+
+.music-img{
+    width: 15%;
+    height: 15%;
+}
+
+.prog-img{
+    width: 20%;
+    height: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.act-img{
+    width: 20%;
+    height: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.copyright{
+    color:#F0ECE3;
+    font-size: 0.9rem;
+}
+
+.btn {
+    
+    background: #BF8B67;
+    background-image: -webkit-linear-gradient(top, #BF8B67, #DACC96);
+    background-image: -moz-linear-gradient(top, #BF8B67, #DACC96);
+    background-image: -ms-linear-gradient(top, #BF8B67, #DACC96);
+    background-image: -o-linear-gradient(top, #BF8B67, #DACC96);
+    background-image: linear-gradient(to bottom, #BF8B67, #DACC96);
+    -webkit-border-radius: 18;
+    -moz-border-radius: 18;
+    border-radius: 18px;
+    text-shadow: 1px 1px 3px #f2f2f2;
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: #F0ECE3;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #BF8B67 1px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #876445;
+    text-decoration: none;
+  }
